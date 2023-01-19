@@ -49,45 +49,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [Monitoring](#monitoring)
    * [PaaS](#paas)
    * [Package Build System](#package-build-system)
-   * [Payment and Billing Integration](#payment-and-billing-integration)
-   * [Privacy Management](#privacy-management)
-   * [Screenshot APIs](#screenshot-apis)
-   * [Flutter Related and Building IOS Apps without Mac](#flutter-related-and-building-ios-apps-without-mac)
-   * [Search](#search)
-   * [Security and PKI](#security-and-pki)
-   * [Authentication, Authorization and User Management](#authentication-authorization-and-user-management)
-   * [Source Code Repos](#source-code-repos)
-   * [Storage and Media Processing](#storage-and-media-processing)
-   * [Tunneling, WebRTC, Web Socket Servers and Other Routers](#tunneling-webrtc-web-socket-servers-and-other-routers)
-   * [Testing](#testing)
-   * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
-   * [Translation Management](#translation-management)
-   * [Vagrant Related](#vagrant-related)
-   * [Visitor Session Recording](#visitor-session-recording)
-   * [Web Hosting](#web-hosting)
-   * [Commenting Platforms](#commenting-platforms)
-   * [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
-   * [Remote Desktop Tools](#remote-desktop-tools)
-   * [Game Development](#game-development)
-   * [Other Free Resources](#other-free-resources)
 
-## Major Cloud Providers
 
-  * [Google Cloud Platform](https://cloud.google.com)
-    * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
-    * Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
-    * Compute Engine - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
-    * Cloud Storage - 5GB, 1GB network egress
-    * Cloud Shell - Web-based Linux shell/basic IDE with 5GB of persistent storage. 60 hours limit per week
-    * Cloud Pub/Sub - 10GB of messages per month
-    * Cloud Functions - 2 million invocations per month (includes both background and HTTP invocations)
-    * Cloud Run - 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month
-    * Google Kubernetes Engine - No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing
-    * BigQuery - 1 TB of querying per month, 10 GB of storage each month
-    * Cloud Build - 120 build-minutes per day
-    * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
-    * [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
-    * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
     * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month
